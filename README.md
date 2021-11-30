@@ -14,7 +14,7 @@ perceived by the prey.
 
 ## Usage
 
-The code is anotated. Runs best with Anaconda 3 distribution. Please excute ```python pip install ray``` in your conda environment before running the code. Average execution time 1 - 2 hours.
+The code is anotated. Runs best with Anaconda 3 distribution. Please excute ```pip install ray``` in your conda environment before running the code. Average execution time 1 - 2 hours.
 
 ## Software Used
 
